@@ -13,11 +13,11 @@
 ## Instale no local  
 Open Terminal, then type command:  
 Abra o Terminal e digite o comando:  
-> git clone https://github.com/natanaeldiego/exemplo-basico-com-hook.git
+> git clone https://github.com/natanaeldiego/react-native-navigation.git
 
 Go to project folder:  
 Vá para a pasta do projeto:  
-> cd exemplo-basico-com-hook
+> cd react-native-navigation
 
 Type following command:
 Digite o seguinte comando:
@@ -55,7 +55,7 @@ You must sign .apk with keystore, to do this just type in your terminal:
 Você deve assinar .apk com o keystore, para isso basta digitar no seu terminal:  
 > npm run android-signer
 
-The .apk file is located at / O arquivo .apk está localizado em `exemplo-basico-com-hook/android/app/build/outputs/apk/app-release-unsigned.apk`
+The .apk file is located at / O arquivo .apk está localizado em `react-native-navigation/android/app/build/outputs/apk/app-release-unsigned.apk`
 
 ##  Available Command  
 
